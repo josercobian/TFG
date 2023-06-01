@@ -1,4 +1,4 @@
-# TFG-inf-
+# TFG (inf)
 
 This repository showcases the files and code related to my Bachelor's Thesis in Computer Science, which I had the privilege of
 working on in collaboration with Enrique Carro Garrido. The project aims to tackle the P vs NP problem through P_{/poly} by identifying
